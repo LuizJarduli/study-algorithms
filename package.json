@@ -1,0 +1,16 @@
+{
+  "name": "study-algorithms",
+  "version": "1.0.0",
+  "description": "In this repository, I will study various data structure algorithms and post the results here. Each algorithm will be benchmarked to analyze its performance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
