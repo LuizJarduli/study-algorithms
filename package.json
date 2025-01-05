@@ -4,7 +4,7 @@
   "description": "In this repository, I will study various data structure algorithms and post the results here. Each algorithm will be benchmarked to analyze its performance.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "run:binary-search": "npx tsx src/algorithms/binary-search"
   },
   "keywords": [],
   "author": "",
